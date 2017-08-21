@@ -1,0 +1,10 @@
+{
+	"people":[
+		{ "firstName": "T", "lastName":"McLaughlin", "email": "aaaa" },
+		{ "firstName": "Jason", "lastName":"Hunter", "email": "bbbb"},
+		{ "firstName": "Elliotte", "lastName":"Harold", "email": "cccc" },
+		{ "firstName": "F", "lastName":"Tian", "email": "ddd" },
+		{ "firstName": "Jake", "lastName":"Chen", "email": "eee"},
+		{ "firstName": "Lorry", "lastName":"Ling", "email": "fff" }
+	]
+}
